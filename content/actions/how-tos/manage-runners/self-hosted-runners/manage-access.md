@@ -1,4 +1,4 @@
----
+--- 
 title: Managing access to self-hosted runners using groups
 shortTitle: Manage access
 intro: 'You can use policies to limit access to self-hosted runners that have been added to an organization{% ifversion ghec or ghes %} or enterprise{% endif %}.'
